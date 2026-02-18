@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "448806411994",
+    "firebase_url": "https://chartingapp-168ed-default-rtdb.firebaseio.com",
+    "project_id": "chartingapp-168ed",
+    "storage_bucket": "chartingapp-168ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448806411994:android:b7d2c4088bbeafeceb8fe3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_projects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCV7qW40OsK82qci-xFMzFp2-jWguF6eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

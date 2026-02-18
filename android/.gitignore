@@ -1,0 +1,46 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
+<<<<<<< HEAD
+=======
+# Flutter build folders
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.idea/
+*.iml
+
+# Firebase Android config
+/android/app/google-services.json
+
+# Firebase iOS config
+/ios/Runner/GoogleService-Info.plist
+
+# VS Code
+.vscode/
+
+# MacOS / Windows / Linux build folders
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+
+# Log files
+*.log
+
+# Dart tool
+.dart_tool/
+>>>>>>> 27551880ef1e78ecbb749df6558c3623fc9ec7d8

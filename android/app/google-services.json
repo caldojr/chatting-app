@@ -1,0 +1,65 @@
+{
+  "project_info": {
+<<<<<<< HEAD
+    "project_number": "90175630651",
+    "project_id": "chatapp-4ae16",
+    "storage_bucket": "chatapp-4ae16.firebasestorage.app"
+=======
+    "project_number": "448806411994",
+    "firebase_url": "https://chartingapp-168ed-default-rtdb.firebaseio.com",
+    "project_id": "chartingapp-168ed",
+    "storage_bucket": "chartingapp-168ed.firebasestorage.app"
+>>>>>>> 27551880ef1e78ecbb749df6558c3623fc9ec7d8
+  },
+  "client": [
+    {
+      "client_info": {
+<<<<<<< HEAD
+        "mobilesdk_app_id": "1:90175630651:android:40343e09fe0a71fe07db1e",
+        "android_client_info": {
+          "package_name": "com.example.g11chat_app"
+=======
+        "mobilesdk_app_id": "1:448806411994:android:fbe529d7bf5ceb56eb8fe3",
+        "android_client_info": {
+          "package_name": "com.example.chartapp"
+>>>>>>> 27551880ef1e78ecbb749df6558c3623fc9ec7d8
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+<<<<<<< HEAD
+          "current_key": "AIzaSyDrT2BpBIkUFqS3bs_lKp353TQ1wqen62w"
+=======
+          "current_key": "AIzaSyBCV7qW40OsK82qci-xFMzFp2-jWguF6eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448806411994:android:b7d2c4088bbeafeceb8fe3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_projects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCV7qW40OsK82qci-xFMzFp2-jWguF6eM"
+>>>>>>> 27551880ef1e78ecbb749df6558c3623fc9ec7d8
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
