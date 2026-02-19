@@ -1,3 +1,4 @@
+ # G11Chat App
 -MUSA JOSEPHAT MALIFEDHA
 NIT/BIT/2023/2288(Pesamussa1)
 ( He is not available because he is at his father's funeral)
@@ -17,8 +18,28 @@ THOMAS CHARLES NGULUGULU
 
 -ACKLINEJ.ZUMBA
 NIT/BIT/2022/1899(acklinezumba1)
-# G11Chat App
-NO
+
+-MWAJABU IDDI MTAMBO
+NIT/BIT/2023/2150(Mwajabu27)
+
+HANIFA JACKSON PETER
+NIT/BIT/2023/2235 ( NEEFER805)
+
+HASHIMU ISMAIL SELEMANI
+NIT/BIT/2023/2087(selemani56)
+
+ALDO MAIKO NJOGOLO
+NIT/BIT/2023/2245(git=caldojr)
+
+JOSEPH MASESA MAGANDU
+NIT/BIT/2023/2376(git=Joseph@2000)
+
+POSIAN DOMINIKO YOTHAM 
+NIT/BIT/2023/2339 (git-Dominiko123)
+
+
+
+
 A modern, real-time messaging application built with Flutter and Firebase. G11Chat enables seamless peer-to-peer communication with rich features like typing indicators, message read receipts, media sharing, and presence tracking.
 
 ---
