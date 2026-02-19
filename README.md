@@ -19,7 +19,21 @@ THOMAS CHARLES NGULUGULU
 -ACKLINEJ.ZUMBA
 NIT/BIT/2022/1899(acklinezumba1)
 -MWAJABU IDDI MTAMBO
-NIT/BIT/2023/2150(Mwajabu27
+NIT/BIT/2023/2150(Mwajabu27)
+HANIFA JACKSON PETER
+NIT/BIT/2023/2235 ( NEEFER805)
+HASHIMU ISMAIL SELEMANI
+NIT/BIT/2023/2087(selemani56)
+ALDO MAIKO NJOGOLO
+NIT/BIT/2023/2245(git=caldojr)
+JOSEPH MASESA MAGANDU
+NIT/BIT/2023/2376(git=Joseph@2000)
+
+
+
+
+
+
 A modern, real-time messaging application built with Flutter and Firebase. G11Chat enables seamless peer-to-peer communication with rich features like typing indicators, message read receipts, media sharing, and presence tracking.
 
 ---
