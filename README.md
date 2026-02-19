@@ -1,7 +1,17 @@
-SAMWEL SIKUJUA SICHIMATA  NIT/BIT/2023/2378 (8sasisi sammsasisi8@gmail.com)
-BARAKA WAMBURA MAGAIWA  NIT/BIT/2023/2348 (barakamatrix)
-NIT/BIT/2023/2378
-JACKSON MAIKO MTEWELE-NIT/BIT/2023/2336-(jackson3646)
+-MUSA JOSEPHAT MALIFEDHA
+NIT/BIT/2023/2288(Pesamussa1)
+( He is not available because he is at his father's funeral)
+
+-SAMWEL SIKUJUA SICHIMATA  NIT/BIT/2023/2378 (8sasisi)
+
+-BARAKA WAMBURA MAGAIWA  NIT/BIT/2023/2348 (barakamatrix)
+
+-JACKSON MAIKO MTEWELE-NIT/BIT/2023/2336-(jackson3646)
+
+-ANGEL EMMANUEL MWATISI
+NIT/BIT/2023/2165(Angel2004-ang)
+
+
 # G11Chat App
 NO
 A modern, real-time messaging application built with Flutter and Firebase. G11Chat enables seamless peer-to-peer communication with rich features like typing indicators, message read receipts, media sharing, and presence tracking.
